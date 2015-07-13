@@ -10,4 +10,6 @@ public class Hello {
         return x + y;
     }
 
+    
+    // some colleague added another function to this file 
 }

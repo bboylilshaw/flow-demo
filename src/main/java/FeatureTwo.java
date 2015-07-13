@@ -3,4 +3,5 @@
  */
 public class FeatureTwo {
     // feature 2
+    // hotfix for feature 2
 }

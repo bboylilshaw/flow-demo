@@ -18,4 +18,6 @@ public class Hello {
     // some colleague added another function again
 
     // Feature 5 needs add some code here
+
+    // Feature 6 also need to add some code here
 }

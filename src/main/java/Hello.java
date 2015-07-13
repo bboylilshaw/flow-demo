@@ -12,4 +12,6 @@ public class Hello {
 
     
     // some colleague added another function to this file 
+    
+    // some colleague added another function again
 }

@@ -7,4 +7,6 @@ public class FeatureA {
     // add function 1
     // added some code by S
     // add some other code 
+
+    // fix a issue for feature A
 }

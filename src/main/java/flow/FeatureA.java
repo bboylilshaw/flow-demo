@@ -5,4 +5,6 @@ package flow;
  */
 public class FeatureA {
     // add function 1
+
+    // fix a issue for feature A
 }
